@@ -4,9 +4,12 @@
 
 This is where you will be submitting any challenges/labs through a pull request.
 
+Steps:
+1. Run the command `git clone 
+
 TIPS:
-1. Always create a new branch for each new assignment.
-2. Make sure you are working on your own branch to avoid any merge conflicts.
-3. Please make sure you are pushing to origin/master and not someone else's branch.
-4. Feel free to create as much commits necessary to complete the assignment before merging to the repository.
-5. Google is your friend! Don't be afraid to ask help from others! 
+* Always create a new branch for each new assignment.
+* Make sure you are working on your own branch to avoid any merge conflicts.
+* Please make sure you are pushing to origin/master and not someone else's branch.
+* Feel free to create as much commits necessary to complete the assignment before merging to the repository.
+* Google is your friend! Don't be afraid to ask help from others! 
