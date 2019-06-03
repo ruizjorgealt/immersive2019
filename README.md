@@ -1,5 +1,7 @@
 # immersive2019
 
+![META+LAB](https://jorgearuiz.net/wp-content/uploads/2019/06/metalab.png)
+
                         Welcome to the Summer 2019 Operations Immersive Program Repo!
 
 This is where you will be submitting any challenges/labs through a pull request.
