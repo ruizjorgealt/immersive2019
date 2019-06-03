@@ -1,6 +1,8 @@
 # immersive2019
 
-![META+LAB](https://jorgearuiz.net/wp-content/uploads/2019/06/metalab.png)
+<p align="center">
+  <img src="https://jorgearuiz.net/wp-content/uploads/2019/06/metalab.png" />
+</p>
 
                         Welcome to the Summer 2019 Operations Immersive Program Repo!
 
