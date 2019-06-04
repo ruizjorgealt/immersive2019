@@ -8,6 +8,8 @@
 
 This is where you will be submitting any challenges/labs through a pull request.
 
+Slides: https://drive.google.com/drive/folders/1XWt6J8lku3qWa-KeRn2N5dFo0EpjimeN?usp=sharing
+
 Steps:
 1. Please email/message Jorge your GitHub username to be invited to have write access to the repo. Even better, submit your GitHub username in the following Google form: https://forms.gle/TwvQxYY9NPPLpLZq6
 2. Run the following command to clone the repo: ```git clone https://github.com/ruizjorgealt/immersive2019```
