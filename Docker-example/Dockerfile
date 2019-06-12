@@ -18,7 +18,8 @@ RUN apt-get update \
   && apt-get install -y \
     apache2 \
     git \ 
-    php7.3 \   
+    php7.3 \
+    vim \  
 
 # Enable apache mods
   && a2enmod headers \ 

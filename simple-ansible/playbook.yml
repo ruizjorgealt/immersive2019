@@ -1,0 +1,27 @@
+---
+- name: Run the playbook on the localhost
+  hosts: localhost
+  connection: local
+  become: true
+  tasks:
+    - name: Updating Repo
+      apt:
+        update_cache: yes
+    - name: Install apache
+      apt:
+        name: apache2
+        state: present
+    - name: Install Git
+      apt:
+        name: git
+        state: present
+    - name: Install Vim
+      apt:
+        name: vim
+        state: present
+    - name: Change file ownership, group and permissions
+      file: 
+        path: /var/www/
+        state: directory
+        owner: www-data
+        group: www-data
